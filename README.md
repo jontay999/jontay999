@@ -5,6 +5,7 @@
 <div align="center">
 <img src="https://profile-counter.glitch.me/jontay999/count.svg">
 </div>
+
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
 - 💼 I recently taught high school students in Jamaica programming skills and algorithms during Summer 2023 under Jamcoders
 - 👨‍💻 &nbsp;Read more about my projects at [jontay999.com](https://www.jontay999.com/#portfolio)
