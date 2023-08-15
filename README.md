@@ -5,8 +5,6 @@
 <div align="center">
 <img src="https://profile-counter.glitch.me/jontay999/count.svg">
 </div>
-</br>
-
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
 - 💼 I recently taught high school students in Jamaica programming skills and algorithms during Summer 2023 under Jamcoders
 - 👨‍💻 &nbsp;Read more about my projects at [jontay999.com](https://www.jontay999.com/#portfolio)
@@ -17,19 +15,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to access `jontay999`'s README](https://github.com/jontay999/jontay999)
 <!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-By following me on github lol
-</p>
-
-  
-### ✨&nbsp; About Me
-
-I am the first guy to have the github username `jontay999`
-
-#### Awards and Achievements
-- First to create a github readme under `jontay999/jontay999`
 
 <img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px'>
 
