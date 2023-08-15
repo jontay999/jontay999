@@ -1,27 +1,11 @@
-### Hi there 👋
 
-<!--
-**jontay999/jontay999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there <a href="https://jontay999.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">👋Thank You For Your Visit</h2>
 <div align="center">
 <img src="https://profile-counter.glitch.me/jontay999/count.svg">
 </div>
 </br>
-
-### Hi there <a href="https://jontay999.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I’m currently working on something  :wink:
 - 🌱 &nbsp;I’m currently learning something, Go
