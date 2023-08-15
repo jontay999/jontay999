@@ -8,10 +8,10 @@
 </br>
 
 - 🔭 &nbsp;I’m currently working on something  :wink:
-- 🌱 &nbsp;I’m currently learning something, Go
+- 🌱 &nbsp;I’m currently learning something
 - 💬 &nbsp;Ask me about something
 - 👨‍💻 &nbsp;Read more about my projects at [jontay999.com](https://www.jontay999.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: breaking stuff
+- ⚡ &nbsp;Fun fact: I play CTFs
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
