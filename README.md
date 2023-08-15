@@ -1,10 +1,8 @@
 
 
-### Hi there <a href="https://jontay999.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there, I'm Jon 👋
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/jontay999/count.svg">
-</div>
+
 
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
 - 💼 I recently taught high school students in Jamaica programming skills and algorithms during Summer 2023 under Jamcoders
@@ -23,5 +21,8 @@
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,batchfile&layout=compact&langs_count=6&card_width=400)
 
+<div align="center">
+<img src="https://profile-counter.glitch.me/jontay999/count.svg">
+</div>
 
 
