@@ -23,7 +23,7 @@
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
 
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=10&card_width=500px)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jontay999?ext=heatmap)](https://leetcode.com/jontay999)
     
