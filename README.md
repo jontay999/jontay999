@@ -15,21 +15,16 @@
 - [How to access `jontay999`'s README](https://github.com/jontay999/jontay999)
 <!-- BLOG-POST-LIST:END -->
 
+
+📈 &nbsp;**Some Stats**
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
 
-<div style="display:flex">
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500px)
 
-  <div style="flex:1">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=400)
-
-  </div>
-  <div style="flex:1">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/jontay999?ext=heatmap)
     
-    [![Leetcode Stats](https://leetcard.jacoblin.cool/jontay999?ext=heatmap)](https://leetcode.com/jontay999)
-    
-  </div>
-</div>
 
 <img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px'>
 <img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px'>
