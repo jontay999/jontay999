@@ -3,13 +3,12 @@
 ### Hi there, I'm Jon 👋
 
 - Some of my projects include
-    - [Keep Fit](https://keep-fit-7a9b7.web.app/login) - Dashboard for healthy habit management for Primary School students
+    - [Keep Fit](https://keep-fit-7a9b7.web.app/login) - Dashboard for healthy habit management
     - [Wordle Solver](https://wordle-solver-self.vercel.app/) - Tools to solve the daily Wordle
-    - [Scrabble Helper](https://play.google.com/store/apps/details?id=com.coffeecoder.scrabblehelper&pli=1) - Offline Scrabble Helper Mobile App with 100+ Downloads
+    - [Scrabble Helper](https://play.google.com/store/apps/details?id=com.coffeecoder.scrabblehelper&pli=1) - Mobile App with 100+ Downloads
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
 - 💼 I recently taught algorithms to high school students in Jamaica the past summer under [Jamcoders](https://jamcoders.org.jm/)
 - 📫 Socials: [LinkedIn](https://www.linkedin.com/in/jontay999/) | [LeetCode](https://leetcode.com/jontay999/) | [CTF](https://ctftime.org/team/151372)
-
 
 📕 &nbsp;**Featured Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -18,6 +17,14 @@
 - [Price Oracle Manipulation on Smart Contracts](https://jontay999.com/posts/cyberleague-2022-space-contract)
 - [Hosting and DNS with Vercel](https://jontay999.com/posts/hosting-and-dns-with-vercel)
 <!-- BLOG-POST-LIST:END -->
+
+👀 &nbsp;**Security**
+- Find my 2021, 2022 CTF Writeups [here](https://github.com/jontay999/CTF-writeups)
+- My latest writeups are hosted on my [blog](https://jontay999.com/blog)
+
+🎮 &nbsp;**Try a few of my games**
+- [Traffic Crash Game](https://traffic-crash-game.vercel.app/)
+- [Capture the Flagration](https://2022.reddothunt.sg/static/puzzle_resources/capture-the-flagration/wetwork-traffic.html) (In collaboration with [@Neobeo](https://github.com/Neobeo)
 
 
 📈 &nbsp;**Some Stats**
