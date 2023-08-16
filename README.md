@@ -25,7 +25,9 @@
 
   </div>
   <div style="flex:1">
+    
     [![Leetcode Stats](https://leetcard.jacoblin.cool/jontay999?ext=heatmap)](https://leetcode.com/jontay999)
+    
   </div>
 </div>
 
