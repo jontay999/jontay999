@@ -2,11 +2,12 @@
 
 ### Hi there, I'm Jon 👋
 
-
-
+- Some of my projects include
+    - [Keep Fit](https://keep-fit-7a9b7.web.app/login) - Dashboard for healthy habit management for Primary School students
+    - [Wordle Solver](https://wordle-solver-self.vercel.app/) - Tools to solve the daily Wordle
+    - [Scrabble Helper](https://play.google.com/store/apps/details?id=com.coffeecoder.scrabblehelper&pli=1) - Offline Scrabble Helper Mobile App with 100+ Downloads
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
 - 💼 I recently taught algorithms to high school students in Jamaica the past summer under [Jamcoders](https://jamcoders.org.jm/)
-- 👨‍💻 &nbsp;Read more about my projects at [jontay999.com](https://www.jontay999.com/#portfolio)
 - 📫 Socials: [LinkedIn](https://www.linkedin.com/in/jontay999/) | [LeetCode](https://leetcode.com/jontay999/) | [CTF](https://ctftime.org/team/151372)
 
 
