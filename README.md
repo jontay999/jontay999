@@ -18,8 +18,11 @@
 <img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px'>
 
 
-<!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,batchfile&layout=compact&langs_count=6&card_width=400)
+![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=batchfile&layout=compact&langs_count=6&card_width=400)
+
+<!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs) -->
+
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/jontay999/count.svg">
