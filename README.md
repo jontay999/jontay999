@@ -3,7 +3,7 @@
 ### Hi there, I'm Jon 👋
 
 - Some of my projects include
-    - [Keep Fit](https://keep-fit-7a9b7.web.app/login) - Dashboard for healthy habit management
+    - [Keep Fit](https://keep-fit-7a9b7.web.app/login) - Dashboard for healthy habit management ([App](https://play.google.com/store/apps/details?id=com.keepfitmobile))
     - [Wordle Solver](https://wordle-solver-self.vercel.app/) - Tools to solve the daily Wordle
     - [Scrabble Helper](https://play.google.com/store/apps/details?id=com.coffeecoder.scrabblehelper&pli=1) - Mobile App with 100+ Downloads
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
