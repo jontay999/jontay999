@@ -24,7 +24,7 @@
 
 🎮 &nbsp;**Try a few of my games**
 - [Traffic Crash Game](https://traffic-crash-game.vercel.app/)
-- [Capture the Flagration](https://2022.reddothunt.sg/static/puzzle_resources/capture-the-flagration/wetwork-traffic.html) (In collaboration with [@Neobeo](https://github.com/Neobeo)
+- [Capture the Flagration](https://2022.reddothunt.sg/static/puzzle_resources/capture-the-flagration/wetwork-traffic.html) (in collaboration with [@Neobeo](https://github.com/Neobeo))
 
 
 📈 &nbsp;**Some Stats**
