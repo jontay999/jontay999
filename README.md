@@ -5,7 +5,7 @@
 
 
 - 🔭 &nbsp;I’m currently working on a Code Quality Assessment tool
-- 💼 I recently taught high school students in Jamaica programming skills and algorithms during Summer 2023 under Jamcoders
+- 💼 I recently taught algorithms to high school students in Jamaica the past summer under [Jamcoders](https://jamcoders.org.jm/)
 - 👨‍💻 &nbsp;Read more about my projects at [jontay999.com](https://www.jontay999.com/#portfolio)
 - 📫 Socials: [LinkedIn](https://www.linkedin.com/in/jontay999/) | [LeetCode](https://leetcode.com/jontay999/) | [CTF](https://ctftime.org/team/151372)
 
