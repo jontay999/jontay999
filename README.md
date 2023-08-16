@@ -10,9 +10,12 @@
 - 📫 Socials: [LinkedIn](https://www.linkedin.com/in/jontay999/) | [LeetCode](https://leetcode.com/jontay999/) | [CTF](https://ctftime.org/team/151372)
 
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**Featured Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to access `jontay999`'s README](https://github.com/jontay999/jontay999)
+- [Abusing Javascript's Lexical Parser and Automatic Semicolon Insertion](https://jontay999.com/posts/dicectf-2023-gift)
+- [A gentle introduction to Tcache Poisoning](https://jontay999.com/posts/bsidestlv-2022-n0tes)
+- [Price Oracle Manipulation on Smart Contracts](https://jontay999.com/posts/cyberleague-2022-space-contract)
+- [Hosting and DNS with Vercel](https://jontay999.com/posts/hosting-and-dns-with-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 
