@@ -23,7 +23,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jontay999?ext=heatmap)](https://leetcode.com/jontay999)
 
-<div align="center" display="none">
+<div align="center"  style="display:none">
 <img src="https://profile-counter.glitch.me/jontay999/count.svg">
 </div>
 
