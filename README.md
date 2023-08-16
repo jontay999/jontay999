@@ -33,7 +33,7 @@
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-co7lxvyzz-jontay999.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats-co7lxvyzz-jontay999.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10" />
 </a>
 
 <a href="https://leetcode.com/jontay999">
