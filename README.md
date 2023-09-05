@@ -27,7 +27,7 @@
 - [Capture the Flagration](https://2022.reddothunt.sg/static/puzzle_resources/capture-the-flagration/wetwork-traffic.html) (in collaboration with [@Neobeo](https://github.com/Neobeo))
 
 
-<img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px' height="0px">
+<!-- <img alt='analytics' src='https://profile-counter.glitch.me/jontay999/count.svg' width='0px' height="0px"> -->
 
 📈 &nbsp;**Some Stats**
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
