@@ -32,15 +32,16 @@
 📈 &nbsp;**Some Stats**
 <!-- ![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontay999&show_icons=true&theme=radical) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-co7lxvyzz-jontay999.vercel.app/api/top-langs/?theme=transparent&username=jontay999&size_weight=0.5&hide=jupyter%20notebook&count_weight=0.5&layout=compact&langs_count=10" />
-</a>
+</a> -->
 
 <a href="https://leetcode.com/jontay999">
   <img height=200 align="center" src="https://leetcard.jacoblin.cool/jontay999?ext=heatmap" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-co7lxvyzz-jontay999.vercel.app/api?username=jontay999&show_icons=true" />
-</a>
+</a> -->
 
 
